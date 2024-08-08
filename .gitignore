@@ -1,0 +1,9 @@
+# Environment Variables
+.env
+
+# Database API Keys
+database/credentials.json
+
+# Files not in use yet
+assets/images/command_image_template.png
+assets/images/command_image.py

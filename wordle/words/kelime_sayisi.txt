@@ -1,0 +1,3 @@
+5 harfli 5587 kelime
+6 harfli 6200 kelime
+7 harfli 8133 kelime

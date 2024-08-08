@@ -1,0 +1,4 @@
+discord.py
+Pillow
+firebase_admin
+python-dotenv
